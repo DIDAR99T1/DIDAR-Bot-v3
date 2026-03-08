@@ -38,7 +38,7 @@ You can switch the bot's response language in the `config.json` file.
 | :--- | :--- | :--- |
 | **Bangla** | `bn` | ✅ Supported |
 | **English** | `en` | ✅ Supported |
-| **Vietnamese** | `vi` | ✅ Supported |
+| **** | `vi` | ✅ Supported |
 
 ---
 
