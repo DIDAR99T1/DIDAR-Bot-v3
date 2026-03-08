@@ -34,17 +34,17 @@ module.exports = {
         langs: {
                 bn: {
                         success: ">🎀 %1\nবেবি, এই নাও তোমার প্রোফাইল 😘",
-                        error: "× প্রোফাইল পিকচার আনতে সমস্যা হয়েছে, Contact MahMUD: %1",
+                        error: "× প্রোফাইল পিকচার আনতে সমস্যা হয়েছে, Contact Didar: %1",
                         invalid: "! সঠিক UID বা লিংক প্রদান করুন"
                 },
                 en: {
                         success: ">🎀 %1\n𝐁𝐚𝐛𝐲, 𝐇𝐞𝐫𝐞'𝐬 𝐲𝐨𝐮𝐫 𝐩𝐫𝐨𝐟𝐢𝐥𝐞 😘",
-                        error: "× Could not fetch profile picture, Contact MahMUD: %1",
+                        error: "× Could not fetch profile picture, Contact Didar: %1",
                         invalid: "! Invalid UID or link"
                 },
                 vi: {
                         success: ">🎀 %1\nCưng ơi, ảnh đại diện của cưng đây 😘",
-                        error: "× Không thể lấy ảnh đại diện, liên hệ MahMUD: %1",
+                        error: "× Không thể lấy ảnh đại diện, liên hệ Didar: %1",
                         invalid: "! UID hoặc liên kết không hợp lệ"
                 }
         },
